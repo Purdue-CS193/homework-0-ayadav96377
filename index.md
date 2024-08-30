@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-#Aahana Yadav's First CS193 Homework
+# Aahana Yadav's First CS193 Homework
 
 - Collaborative environment
 - Lots of available help
